@@ -26,7 +26,7 @@
 <img  width="40px" height="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" ></img></a>
 
 <a href="https://www.linkedin.com/in/sagar-devkota-8126041a4/"> 
-<img  width="22px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<img  width="40px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 
 <br />
