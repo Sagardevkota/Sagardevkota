@@ -3,7 +3,7 @@
 ## Good to See you, I'm [Sagar Devkota!](https://sagardev.com.np/)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sagardevkota&label=Views&color=brightgreen&style=plastic" alt="Sagardevkota" /> </p>
+
 
 
 ## I'm a full stack developer, tech enthusiast and a gamer !!!
