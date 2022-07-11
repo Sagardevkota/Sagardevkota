@@ -9,11 +9,11 @@
 ## I'm a full stack developer, tech enthusiast and a gamer !!!
 
 
-- 🔭 I'm currently studying Software Engineering 
-- 🌱 I’m currently learning everything android development, backend development in microservice architecture(Spring boot), web development(React with TS? gotta be strict) 🤣
+- 🔭 I'm Software Engineer graduate and professional
+- 🌱 I’m currently learning everything android development, backend development in Spring Ecosystem in Frameworks like Spring, Spring Boot, Quarkus & web development in Angular.
 - 💬 Ask me about Android and spring boot.
 - 👯 I’m looking to collaborate with other on cool projects
-- 🥅 2021 Goals: Contribute to this world
+- 🥅 Lifetime Goals: Be a better software engineer than yesterday
 - ⚡ Fun fact: I love to play games, watch movies, chill with friends, travel and listen musics
 
 ### Spotify Playing 🎧
